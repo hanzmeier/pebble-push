@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Text",
+          "type": "REMINDER"
+        },
+        {
+            "name": "Date",
+            "type": "AMAZON.Date"
+        },
+        {
+            "name": "Time",
+            "type": "AMAZON.Time"
+        }
+      ],
+      "intent": "normalReq"
+    },
+    {
+      "slots": [
+        {
+          "name": "Text",
+          "type": "REMINDER"
+        },
+        {
+            "name": "Hours",
+            "type": "AMAZON.Number"
+        }
+      ],
+      "intent": "hoursReq"
+    },
+    {
+      "intent": "instructions"
+    },
+    {
+      "intent": "linkaccount"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}

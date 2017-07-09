@@ -1,0 +1,51 @@
+normalReq   remind me to {Text} at {Time} on {Date}
+normalReq   remind me to {Text} at {Time} {Date}
+normalReq   remind me {Date} at {Time} to {Text}
+normalReq   remind me at {Time} {Date} to {Text}
+normalReq   {Date} at {Time} remind me to {Text}
+normalReq   at {Time} {Date} remind me to {Text}
+normalReq   to remind me to {Text} at {Time} on {Date}
+normalReq   to remind me to {Text} at {Time} {Date}
+normalReq   to remind me {Date} at {Time} to {Text}
+normalReq   to remind me at {Time} {Date} to {Text}
+normalReq   on {Date} at {Time} remind me to {Text}
+
+normalReq   tell me to {Text} at {Time} on {Date}
+normalReq   tell me to {Text} at {Time} {Date}
+normalReq   tell me {Date} at {Time} to {Text}
+normalReq   tell me at {Time} {Date} to {Text}
+normalReq   {Date} at {Time} tell me to {Text}
+normalReq   at {Time} {Date} tell me to {Text}
+normalReq   to tell me to {Text} at {Time} on {Date}
+normalReq   to tell me to {Text} at {Time} {Date}
+normalReq   to tell me {Date} at {Time} to {Text}
+normalReq   to tell me at {Time} {Date} to {Text}
+normalReq   on {Date} at {Time} tell me to {Text}
+
+hoursReq    remind me to {Text} in {Hours} hours
+hoursReq    remind me to {Text} in {Hours}
+hoursReq    remind me in {Hours} hours to {Text}
+hoursReq    remind me in {Hours} to {Text}
+hoursReq    to remind me to {Text} in {Hours} hours
+hoursReq    to remind me to {Text} in {Hours}
+hoursReq    to remind me in {Hours} hours to {Text}
+hoursReq    to remind me in {Hours} to {Text}
+
+hoursReq    tell me to {Text} in {Hours} hours
+hoursReq    tell me to {Text} in {Hours}
+hoursReq    tell me in {Hours} hours to {Text}
+hoursReq    tell me in {Hours} to {Text}
+hoursReq    to tell me to {Text} in {Hours} hours
+hoursReq    to tell me to {Text} in {Hours}
+hoursReq    to tell me in {Hours} hours to {Text}
+hoursReq    to tell me in {Hours} to {Text}
+
+instructions    for instructions
+instructions    for instruction
+instructions    instructions
+instructions    instruction
+
+linkaccount     link account
+linkaccount     link accounts
+linkaccount     to link account
+linkaccount     to link accounts
